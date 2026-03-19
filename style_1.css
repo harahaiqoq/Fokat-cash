@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: url('assets/fonts.gstatic.com_s_quicksand_v37_6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 500;
+  src: url('assets/fonts.gstatic.com_s_quicksand_v37_6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  src: url('assets/fonts.gstatic.com_s_quicksand_v37_6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf') format('truetype');
+}
